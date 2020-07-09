@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 
+
+- :seedling: [Vue.js](https://vuejs.org/) is the new :heart_eyes:
+- :file_folder: [React.js](http://reactjs.org/) is the still kinda cool
+- :bulb: Let's collaborate on open source community-first projects 
+- :scroll: Former human resources professional
+- :smiley: Pronouns: he/him/his
+- :rocket: "Lift as you climb"
 
 <!--
 **jwu910/jwu910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
