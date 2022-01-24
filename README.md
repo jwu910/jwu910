@@ -1,7 +1,6 @@
 ### Hello nerds! 
 
-- :zap: Frontend Engineer currently working with [Vue.js](https://vuejs.org/)
-- :file_folder: [React.js](http://reactjs.org/) forever in my 🫀
+- :zap: Frontend Engineer currently working with [React.js](http://reactjs.org/) and [Vue.js](https://vuejs.org/)
 - :bulb: Let's collaborate on open source community-first projects
 - :scroll: Former human resources professional
 - :smiley: Pronouns: he/him/his
