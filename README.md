@@ -1,10 +1,14 @@
 ### Hello nerds! 
 
-- :zap: Frontend Engineer currently working with [React.js](http://reactjs.org/) and [Vue.js](https://vuejs.org/)
-- :bulb: Let's collaborate on open source community-first projects
+- :black_cat: Cat dad
+- :books: Self-taught
 - :scroll: Former human resources professional
 - :smiley: Pronouns: he/him/his
-- :climbing: "Lift as you climb"
+- :climbing: "Lift as you climb" - offering free 1:1 mentoring sessions through :bubble_tea: [BobaTalks](https://bobatalks.com)
+- :zap: Frontend Engineer currently working with [React.js](http://reactjs.org/)
+- :leafy_green: [Vue.js](https://vuejs.org/) in some former version of myself
+- :bulb: Let's collaborate on open source community-first projects
+- :moneybag: Hire me to automate your processes. :supervillain: Repetitious mundane is my arch nemesis - [tell me your problems](mailto:hello@joshuawu.me)
 
 
 ```
