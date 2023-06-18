@@ -23,7 +23,7 @@ npx joshuawu
       />
       <img
         alt="Card displaying Josh's github profile stats"
-        src="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=default&line_height=24&border_radius=5#gh-dark-mode-only"
+        src="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only"
       />
     </picture>
     <picture>
@@ -33,7 +33,7 @@ npx joshuawu
       />
       <img
         alt="Card displaying Josh's most used languages"
-        src="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=default&langs_count=6&custom_title=Top%20Languages&card_width=265hide=java#gh-dark-mode-only"
+        src="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=onedark&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only"
       />
     </picture>
 </div>
