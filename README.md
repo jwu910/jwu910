@@ -1,3 +1,7 @@
+<link rel="preload" as="image" href="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only") />
+<link rel="preload" as="image" href="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=onedark&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only" />
+
+
 ### Hello nerds! 
 
 - :black_cat: Cat dad
@@ -18,6 +22,7 @@ npx joshuawu
 <div dir="auto" align="center">
     <picture>
       <source
+        preload
         srcset="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only"
         media="(prefers-color-scheme: dark)"
       />
@@ -37,9 +42,6 @@ npx joshuawu
       />
     </picture>
 </div>
-
-
-
 
 <!--
 **jwu910/jwu910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
