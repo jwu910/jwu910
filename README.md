@@ -1,5 +1,5 @@
-<link rel="preload" as="script" href="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only") />
-<link rel="preload" as="script" href="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=onedark&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only" />
+<link rel="preload" as="image" href="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only") />
+<link rel="preload" as="image" href="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=onedark&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only" />
 
 
 ### Hello nerds! 
@@ -24,22 +24,22 @@ npx joshuawu
     <picture>
       <source
         preload
-        srcset="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only"
+        srcset="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=transparent&line_height=24&border_radius=5#gh-dark-mode-only"
         media="(prefers-color-scheme: dark)"
       />
       <img
         alt="Card displaying Josh's github profile stats"
-        src="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=onedark&line_height=24&border_radius=5#gh-dark-mode-only"
+        src="https://github-readme-stats-jwu910.vercel.app/api?username=jwu910&show_icons=true&hide=issues&theme=transparent&line_height=24&border_radius=5#gh-dark-mode-only"
       />
     </picture>
     <picture>
       <source
-        srcset="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=onedark&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only"
+        srcset="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=transparent&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only"
         media="(prefers-color-scheme: dark)"
       />
       <img
         alt="Card displaying Josh's most used languages"
-        src="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=onedark&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only"
+        src="https://github-readme-stats-jwu910.vercel.app/api/top-langs/?username=jwu910&layout=compact&theme=transparent&langs_count=6&custom_title=Top%20Languages&card_width=265&hide=java#gh-dark-mode-only"
       />
     </picture>
 </div>
