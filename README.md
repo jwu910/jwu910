@@ -4,7 +4,7 @@
 
 ### Hello nerds! 
 
-- :black_cat: Cat dad :cat2:
+- 🐈‍⬛ Cat dad 🐈
 - :books: Self-taught
 - :scroll: Former human resources professional
 - :smiley: Pronouns: he/him/his
