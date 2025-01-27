@@ -9,7 +9,6 @@
 - :scroll: Former human resources professional
 - :smiley: Pronouns: he/him/his
 - :climbing: "Lifting as we climb" - Mary Church Terrell
-- :bubble_tea: Offering free and quick 1:1 mentoring sessions through [BobaTalks](https://bobatalks.com/software-engineers)
 - :zap: Frontend Engineer currently working with [React.js](http://reactjs.org/)
 - :leafy_green: [Vue.js](https://vuejs.org/) and [Python](https://python.org) in some former version of myself
 - :bulb: Let's collaborate on open source community-first projects
